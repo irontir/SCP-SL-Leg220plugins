@@ -7,9 +7,9 @@ using Smod2.Events;
 namespace ExamplePlugin
 {
 	[PluginDetails(
-		author = "Courtney",
-		name = "Test",
-		description = "Example plugin",
+		author = "Irontir",
+		name = "scp914Test",
+		description = "",
 		id = "courtney.example.plugin",
 		version = "3.0",
 		SmodMajor = 3,
